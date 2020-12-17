@@ -1,6 +1,17 @@
 # 什么是 TypeScript
 
-首先，我对 TypeScript 的理解如下：
+别听网上那些鹦鹉学舌的废话。
+
+现在的 TypeScript 有好几重身份，
+
+第一， 最表面的，JS的一个外挂类型系统，类比Flow（Flow辣鸡， 别去搜了）  
+第二， 作为ES6+的一种向下编译器，类比Babel（Babel能不用就别用，不多喷了）  
+第三， 作为原本的TypeScript，微软自家写JS的方式  
+第四， 也是我着重要讲的，Angular的姊妹项目，从谷歌方面融合的 ATScript
+
+
+
+首先，xcatliu 对 TypeScript 的理解如下：
 
 [TypeScript][] 是 JavaScript 的一个超集，主要提供了**类型系统**和**对 ES6 的支持**，它由 Microsoft 开发，代码[开源于 GitHub](https://github.com/Microsoft/TypeScript) 上。
 

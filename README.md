@@ -2,42 +2,38 @@
 next: introduction/README.md
 ---
 
-# TypeScript 入门教程
+# 🪄 TypeScript 进阶魔法
 
-[![Actions Status](https://github.com/xcatliu/typescript-tutorial/workflows/gh-pages/badge.svg)](https://github.com/xcatliu/typescript-tutorial/actions)
+🪄 面向职业 JavaScript/TypeScript 程序员的 TypeScript 魔法指南。
 
-从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
+从 老油条 的角度总结思考，带你踩坑 TypeScript 的极限骚操作。
 
-## [点击下载本书 提取密码：8f8b](https://www.geekxh.com/ts.html?4d9v)
-
-> **该资源包括：** 
-> 
-> 1：TypeScript 入门教程电子书 2：BAT/TMD 大厂面经 3：百本前端开源电子书 4：50 张思维导图
-
-<a href="https://www.geekxh.com/ts.html?4d9v"><img src="https://www.geekxh.com/ts/08.png?tstr"></a>
+## 没有群没有恰饭套餐
 
 ## 关于本书
 
-- [在线阅读](https://ts.xcatliu.com/)
+- 感谢[TypeScript入门](https://ts.xcatliu.com/)和作者[xcatliu](https://github.com/xcatliu/)。
+- 本书从前作Fork而来。
+- 与其说作者，我更愿意注编者。
+- 编者： [nomagick](https://github.com/nomagick)
 - [GitHub 地址][GitHub]
-- 作者：[xcatliu](https://github.com/xcatliu/)
-- 本网站使用 [Pagic](https://github.com/xcatliu/pagic) 构建
+- 本网站使用 [Pagic](https://github.com/xcatliu/pagic) 构建，是xcatliu弄的，我并不喜欢，总之这不重要
 
-本书是作者在学习 [TypeScript] 后整理的学习笔记。
+本书是编者5年来在生产中深度应用 [TypeScript] 后整理的心得分享。
 
-随着对 TypeScript 理解的加深和 TypeScript 社区的发展，本书也会做出相应的更新，欢迎大家 [Star 收藏][GitHub]。
+随着本油条对 TypeScript 理解的停滞和 TypeScript 社区的虚假繁荣，本书可能会懒得做出相应的更新，随便大家 [Star 收藏][GitHub]。
 
 - 发现文章内容有问题，可以直接在页面下方评论
-- 对项目的建议，可以[提交 issue](https://github.com/xcatliu/typescript-tutorial/issues/new) 向作者反馈
-- 欢迎直接提交 pull-request 参与贡献
+- 对项目的建议，可以[提交 issue](https://github.com/nomagick/typescript-tutorial/issues/new) 向编者反馈
+- 欢迎直接提交 pull-request 参与埋坑
 
 ## 为什么要写本书
 
-TypeScript 虽然有[官方手册][Handbook]及其[非官方中文版][中文手册]，但是它每一章都希望能详尽的描述一个概念，导致前面的章节就会包含很多后面才会学习到的内容，而有些本该一开始就了解的基础知识却在后面才会涉及。如果是初学者，可能需要阅读多次才能理解。所以它更适合用来查阅，而不是学习。
+TypeScript 虽然有 [TypeScript入门](https://ts.xcatliu.com/) 、[官方手册][Handbook]及其[非官方中文版][中文手册]，但他们但深度都太浅了，是专门的文档作品，文档作者不足以理解和展现 TypeScript 的精髓和本意，更不足以将TypeScript的应用推至极限，暴露那些语言设计者的无奈、妥协和随之而来的神坑。
 
-与官方手册不同，本书着重于从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript，希望能给大家一些帮助和启示。
+与入门指南和官方手册不同，本书着重于从一个长期应用TypeScript老油条的角度总结思考，一步到位让你们明白 TypeScript 的真正精髓，以后再看我代码就能找着北了。
 
-由于一些知识点与官方手册重合度很高，本书会在相应章节推荐直接阅读中文手册。
+这个书是从隔壁入门指南fork过来的，太基础的我就不留着了，直接外链过去看吧。
 
 ## 关于 TypeScript
 
